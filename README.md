@@ -1,3 +1,4 @@
 # Logistic Regression on Heart Disease
 
 ### Heart Disease is one of the biggest health problem on these days due to various reasons related with the gender, life style or other pas diseases. Moreover, it is very important to diagnose patiants before any heart attack occurs which may be deadly.
+#### In order to predict a possible heart disease a logistic regression model is trained over the 2020 annual CDC survey data of 400k addults related to their health status. 17 parameters which may related to a heart disease were collected and they transformed into meaningfull numerical values to teach this neural network.
